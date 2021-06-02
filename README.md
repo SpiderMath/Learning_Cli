@@ -1,2 +1,2 @@
 # Learning_Cli
- Learning How to Make CLIs in Node.js!
+ Learning How to Make CLIs in Rust!
