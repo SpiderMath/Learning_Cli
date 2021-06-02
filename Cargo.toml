@@ -1,5 +1,5 @@
 [package]
-name = "Learning_Cli"
+name = "cli"
 version = "0.1.0"
 authors = ["SpiderMath <71999854+SpiderMath@users.noreply.github.com>"]
 edition = "2018"

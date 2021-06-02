@@ -1,3 +1,9 @@
+use std::env::args;
+
 fn main() {
-    println!("Hello, world!");
+    let arguments: Vec<String> = args().collect();
+
+    // arguments[0] = 'target/release/cli.exe'
+
+    println!("{:?}", arguments)
 }
