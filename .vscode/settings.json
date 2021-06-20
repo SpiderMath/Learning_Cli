@@ -1,0 +1,8 @@
+{
+	"powermode.enabled": true,
+	"powermode.enableExplosions": true,
+	"powermode.enableShake": false,
+	"powermode.presets": "particles",
+	"workbench.colorTheme": "Atom One Light",
+	"workbench.iconTheme": "Monokai Classic Icons"
+}
